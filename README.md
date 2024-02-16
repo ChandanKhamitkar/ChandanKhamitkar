@@ -2,7 +2,7 @@
 <h3 align="center">Web Developer | Student</h3>
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?size=626&ext=jpg&uid=R98464249&ga=GA1.1.625671331.1680357616&semt=ais">
 
-- 👨‍💻 All of my projects are available at [https://portfolio-chandan-6.netlify.app/](https://portfoliochandank.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://portfoliochandank.netlify.app/](https://portfoliochandank.netlify.app/)
 
 - 📝 I regularly write articles on [https://blog-website-chandan-6.vercel.app/](https://blog-website-chandan-6.vercel.app/)
 
