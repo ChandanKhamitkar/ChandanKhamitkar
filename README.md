@@ -19,4 +19,4 @@
   </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandan-6&show_icons=true&locale=en" alt="chandan-6" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandan-6&show_icons=true&locale=en" alt="chandan-6" /></p> -->
