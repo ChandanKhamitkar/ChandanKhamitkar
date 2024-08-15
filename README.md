@@ -1,5 +1,5 @@
 <h1 align="left">राधे-राधे 👋, I'm Chandan Khamitkar</h1>
-<h3 align="left">Student | MERN Stack Developer</h3>
+<h3 align="left">Student | Full Stack Developer</h3>
 <!-- <img align="right" alt="coding" width="400" src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?size=626&ext=jpg&uid=R98464249&ga=GA1.1.625671331.1680357616&semt=ais"> -->
 
 
