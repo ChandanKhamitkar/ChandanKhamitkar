@@ -3,7 +3,7 @@
 <!-- <img align="right" alt="coding" width="400" src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?size=626&ext=jpg&uid=R98464249&ga=GA1.1.625671331.1680357616&semt=ais"> -->
 
 
-- 📫 How to reach me **khamitkarsaichandan1035@gmail.com**
+- 📫 How to reach me **khamitkar.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,4 +19,4 @@
   </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandan-6&show_icons=true&locale=en" alt="chandan-6" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandan-6&show_icons=true&locale=en" alt="ChandanKhamitkar" /></p>
