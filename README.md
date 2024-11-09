@@ -19,4 +19,4 @@
   </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandan-6&show_icons=true&locale=en" alt="ChandanKhamitkar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ChandanKhamitkar&show_icons=true&locale=en" alt="ChandanKhamitkar" /></p>
