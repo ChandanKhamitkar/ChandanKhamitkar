@@ -19,4 +19,8 @@
   </a>
 </p>
 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChandanKhamitkar&hide=asp,cmake,c%2B%2B,objective-c&langs_count=6&border_radius=16&layout=compact&size_weight=0.5&count_weight=0.5&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChandanKhamitkar&hide=asp,cmake,c%2B%2B,objective-c&langs_count=6&border_radius=16&layout=compact&theme=default&size_weight=0.5&count_weight=0.5#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ChandanKhamitkar&show_icons=true&locale=en" alt="ChandanKhamitkar" /></p>
